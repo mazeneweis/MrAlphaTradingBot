@@ -1,3 +1,5 @@
+# This version of MrAlpha calculates the correlation between two securities, just enter the ticker of
+# the two securities you wish to compare, and MrAlpha should give you a rating of how correlated the securities are
 import yfinance as yf
 import pandas as pd
 import os
